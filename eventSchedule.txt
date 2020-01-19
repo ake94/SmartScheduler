@@ -1,0 +1,8 @@
+
+				 ### EVENT SCHEDULE ###
+
+		SHIFT 1		SHIFT 2		SHIFT 3		SHIFT 4		
+----------------------------------------------------------------------------
+DAY 1 |		USER 2		USER 2		USER 2		USER 2		
+DAY 2 |		USER 2		USER 2		USER 1		USER 2		
+
